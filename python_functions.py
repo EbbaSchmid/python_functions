@@ -17,5 +17,10 @@ print(largest ([0, 1, 4, 6, 7, 13]))
 
 # --------- Exercise 3 ---------
 
+def occurances(string1, string2):
+  string1("hello there", "hi")
+  string2("what is good?", "who are you?")
+  print(string1, string2)
+  return string1.count(string2)
 
-
+# --------- Exercise 4 ---------
